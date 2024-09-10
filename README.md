@@ -1,9 +1,9 @@
-# Student Ambassador Sponsorship Outreach Hub
+# Student Ambassador Sponsorship Outreach App
 
-Welcome to the Student Ambassador Sponsorship Outreach Hub, your one-stop platform for managing and exploring sponsorships with ease. Our goal is to provide a comprehensive and user-friendly experience to streamline your sponsorship activities.
+This app is your one-stop platform for managing and exploring sponsorships with ease. Our goal is to provide a comprehensive and user-friendly experience to streamline your sponsorship activities.
 
 ## Features
-Sponsorship List
+### Sponsorship List
 Explore Detailed Lists: Access up-to-date information about current sponsorships.
 View Sponsorship Details: Get comprehensive details about each sponsorship opportunity.
 Locations Map

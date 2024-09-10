@@ -1,3 +1,3 @@
-folium
-streamlit_folium
-streamlit_gsheets
+pip install folium
+pip install streamlit_folium
+pip install streamlit_gsheets

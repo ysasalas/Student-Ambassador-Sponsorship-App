@@ -24,14 +24,4 @@ This app is your one-stop platform for managing and exploring sponsorships with 
 1. Explore: Navigate through the Sponsorship List, Locations Map, and Sponsorship Assignments to familiarize yourself with the platform.
 2. Engage: Utilize the tools available to maximize your impact and manage your sponsorship activities effectively.
 
-## Support
-
-If you encounter any issues or have questions, please reach out to our support team:
-
-Email: support@studentambassadorhub.com
-Phone: +1-800-123-4567
-Help Center: Visit our Help Center
-Feedback
-We value your input and are always looking to improve. If you have any suggestions or feedback, please let us know by contacting us through the support channels listed above or by filling out our Feedback Form.
-
 Thank you for using the Student Ambassador Sponsorship Outreach Hub. We're committed to making your sponsorship experience straightforward and insightful. Enjoy exploring and utilizing the tools available to you!

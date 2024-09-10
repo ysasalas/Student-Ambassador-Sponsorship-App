@@ -3,11 +3,14 @@
 This app is your one-stop platform for managing and exploring sponsorships with ease. Our goal is to provide a comprehensive and user-friendly experience to streamline your sponsorship activities.
 
 ## Features
+
 ### Sponsorship List
 
-Explore Detailed Lists: Access up-to-date information about current sponsorships.
-View Sponsorship Details: Get comprehensive details about each sponsorship opportunity.
-Locations Map
+- Explore Detailed Lists: Access up-to-date information about current sponsorships.
+- View Sponsorship Details: Get comprehensive details about each sponsorship opportunity.
+
+### Locations Map
+
 View Sponsor Locations: Access a map of various sponsor locations to assist with navigation and planning.
 Find Nearby Sponsors: Easily locate sponsors in your area or any specific location.
 Sponsorship Assignments

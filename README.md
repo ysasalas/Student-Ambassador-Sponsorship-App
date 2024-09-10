@@ -11,11 +11,13 @@ This app is your one-stop platform for managing and exploring sponsorships with 
 
 ### Locations Map
 
-View Sponsor Locations: Access a map of various sponsor locations to assist with navigation and planning.
-Find Nearby Sponsors: Easily locate sponsors in your area or any specific location.
-Sponsorship Assignments
-Track Assignments: Stay informed about your responsibilities and tasks related to sponsorships.
-Manage Schedules: Keep track of deadlines and upcoming events related to your sponsorships.
+- View Sponsor Locations: Access a map of various sponsor locations to assist with navigation and planning.
+- Find Nearby Sponsors: Easily locate sponsors in your area or any specific location.
+
+### Sponsorship Assignments
+
+- Track Assignments: Stay informed about your responsibilities and tasks related to sponsorships.
+- Manage Schedules: Keep track of deadlines and upcoming events related to your sponsorships.
 Getting Started
 Sign Up: Create an account to get started with managing and exploring sponsorships.
 Login: Use your credentials to access the full range of features.

@@ -18,12 +18,14 @@ This app is your one-stop platform for managing and exploring sponsorships with 
 
 - Track Assignments: Stay informed about your responsibilities and tasks related to sponsorships.
 - Manage Schedules: Keep track of deadlines and upcoming events related to your sponsorships.
-Getting Started
-Sign Up: Create an account to get started with managing and exploring sponsorships.
-Login: Use your credentials to access the full range of features.
-Explore: Navigate through the Sponsorship List, Locations Map, and Sponsorship Assignments to familiarize yourself with the platform.
-Engage: Utilize the tools available to maximize your impact and manage your sponsorship activities effectively.
-Support
+
+## Getting Started
+
+1. Explore: Navigate through the Sponsorship List, Locations Map, and Sponsorship Assignments to familiarize yourself with the platform.
+2. Engage: Utilize the tools available to maximize your impact and manage your sponsorship activities effectively.
+
+## Support
+
 If you encounter any issues or have questions, please reach out to our support team:
 
 Email: support@studentambassadorhub.com
